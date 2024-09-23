@@ -1,7 +1,5 @@
-![Banner](https://raw.githubusercontent.com/premjeet121997/premjeet121997/refs/heads/main/github-header-image.png)
+![Banner](https://raw.githubusercontent.com/premjeet121997/premjeet121997/refs/heads/main/github-header-image%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Premjeet</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
  🔭 **I’m currently working on:** <br>
  Improving MERN stack and cloud-based solutions
